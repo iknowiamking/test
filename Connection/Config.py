@@ -1,0 +1,9 @@
+# Trading API Configuration
+UID = "Z64473"
+PWD = "Bala@@2000"
+FACTOR2 = "CCSPV3482R"
+APKVERSION = "1.0.8"
+VC = "Z64473"
+APPKEY = "MN9eY288n7urM7euPE9Ep7ZY9wfR2Fr2"
+IMEI = ""
+BRKNAME = "ZEBU"

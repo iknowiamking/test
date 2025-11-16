@@ -1,0 +1,7 @@
+SYMBOLS = [
+    "NSE:RELIANCE-EQ",
+    "NSE:TCS-EQ",
+    "NSE:HDFCBANK-EQ",
+    "NSE:INFY-EQ",
+    "NSE:ICICIBANK-EQ"
+]
